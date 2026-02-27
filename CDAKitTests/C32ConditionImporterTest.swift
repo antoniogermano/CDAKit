@@ -20,7 +20,7 @@ class C32HDSConditionImporterTest: XCTestCase {
     
     override func tearDown() {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
-        super.tearDown()
+        super.tearDown() // this is nice
     }
     
   func test_condition_importing() {
